@@ -1,5 +1,5 @@
 # practicaServidor
-Servidor web REST Local hecho en Java (MAVEN)  
+Servidor web REST Local desktop (demonio) hecho en Java (MAVEN)  
 
 librerias: jersey-container-jetty-servlet.jar  
 
